@@ -1,3 +1,5 @@
+package Rating_800;
+
 import java.util.Scanner;
 
 public class GameWithIntegers_1899A {
